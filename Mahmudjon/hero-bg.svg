@@ -1,0 +1,42 @@
+<svg viewBox="0 0 1400 450" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="greenFade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9EFF00" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#55aa05" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#1a4002" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <g stroke="#78d60d" fill="none" opacity="0.45" stroke-width="1.2">
+    <path d="M 0 380 Q 350 370 500 240 T 700 130 T 900 250 Q 1050 370 1400 380" />
+    <path d="M 0 385 Q 350 375 510 250 T 700 145 T 890 260 Q 1050 375 1400 385" stroke="#8cf011" opacity="0.6"/>
+    <path d="M 0 390 Q 360 380 520 260 T 700 160 T 880 270 Q 1040 380 1400 390" />
+    <path d="M 0 395 Q 370 385 530 275 T 700 178 T 870 285 Q 1030 385 1400 395" stroke="#8cf011" opacity="0.7"/>
+    <path d="M 0 400 Q 380 390 540 290 T 700 195 T 860 300 Q 1020 390 1400 400" />
+    <path d="M 0 405 Q 390 395 550 305 T 700 215 T 850 315 Q 1010 395 1400 405" stroke="#8cf011" opacity="0.8"/>
+    <path d="M 0 410 Q 400 400 560 320 T 700 235 T 840 330 Q 1000 400 1400 410" />
+    <path d="M 0 415 Q 410 405 570 335 T 700 255 T 830 345 Q 990 405 1400 415" stroke="#8cf011" opacity="0.85"/>
+    <path d="M 0 420 Q 420 410 580 350 T 700 275 T 820 360 Q 980 410 1400 420" />
+    <path d="M 0 425 Q 430 415 600 370 T 700 300 T 800 375 Q 970 415 1400 425" />
+    <path d="M 0 430 Q 450 420 620 390 T 700 330 T 780 395 Q 950 420 1400 430" />
+    <path d="M 0 435 Q 500 425 650 410 T 700 370 T 750 410 Q 900 425 1400 435" />
+  </g>
+
+  <g stroke="#6ac209" fill="none" opacity="0.35" stroke-width="1">
+    <path d="M 200 420 Q 400 350 700 130" />
+    <path d="M 280 420 Q 450 340 700 130" />
+    <path d="M 360 420 Q 500 330 700 130" />
+    <path d="M 440 420 Q 550 310 700 130" />
+    <path d="M 520 420 Q 600 300 700 130" stroke="#8cf011" opacity="0.6"/>
+    <path d="M 600 420 Q 650 280 700 130" stroke="#8cf011" opacity="0.7"/>
+    <path d="M 650 420 L 700 130" stroke="#8cf011" opacity="0.8"/>
+    <path d="M 700 420 L 700 130" stroke="#9eff00" opacity="0.9" stroke-width="1.4"/>
+    <path d="M 750 420 L 700 130" stroke="#8cf011" opacity="0.8"/>
+    <path d="M 800 420 Q 750 280 700 130" stroke="#8cf011" opacity="0.7"/>
+    <path d="M 880 420 Q 800 300 700 130" stroke="#8cf011" opacity="0.6"/>
+    <path d="M 960 420 Q 850 310 700 130" />
+    <path d="M 1040 420 Q 900 330 700 130" />
+    <path d="M 1120 420 Q 950 340 700 130" />
+    <path d="M 1200 420 Q 1000 350 700 130" />
+  </g>
+</svg>
